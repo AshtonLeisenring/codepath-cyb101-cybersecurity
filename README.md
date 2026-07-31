@@ -31,13 +31,13 @@ Throughout this course, I completed a series of practical cybersecurity projects
 
 | Week | Project | Topics Covered |
 |------|---------|----------------|
-| Week 1 | CyberChef CTF | Cryptography, Encoding & Decoding, CyberChef |
-| Week 2 | SSH Keys | SSH Authentication, OpenSSL, Git Commit Signing |
-| Week 3 | Password Cracking | Hashing, John the Ripper, Password Security |
-| Week 5 | Exploits! | Vulnerability Analysis, Linux, Exploitation Concepts |
-| Week 6 | DIY Malware | Malware Fundamentals, Detection, Analysis |
-| Week 7 | Steghide and Seek | Steganography, Image Metadata, Hidden Data |
-| Week 8 | Threat Analysis | Threat Intelligence, Security Analysis |
+| Week 1 | [CyberChef CTF](week1-cyberchef-ctf/) | Cryptography, Encoding & Decoding, CyberChef |
+| Week 2 | [SSH Keys](week2-ssh-keys/) | SSH Authentication, OpenSSL, Git Commit Signing |
+| Week 3 | [Password Cracking](week3-password-cracking/) | Hashing, John the Ripper, Password Security |
+| Week 5 | [Exploits!](week5-exploits/) | Vulnerability Analysis, Linux, Exploitation Concepts |
+| Week 6 | [DIY Malware](week6-diy-malware/) | Malware Fundamentals, Detection, Analysis |
+| Week 7 | [Steghide and Seek](week7-steghide-and-seek/) | Steganography, Image Metadata, Hidden Data |
+| Week 8 | [Threat Analysis](week8-threat-analysis/) | Threat Intelligence, Security Analysis |
 
 ---
 
